@@ -35,10 +35,13 @@ You can update versions using `flutter pub upgrade` if needed.
 
 lib/
 ├── main.dart
+
 ├── models/
 │ └── task.dart
+
 ├── screens/
 │ └── home_screen.dart
+
 ├── widgets/
 │ └── add_task_modal.dart
 
