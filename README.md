@@ -56,12 +56,6 @@ lib/
 
 ### 🧪 Run Steps
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/flutter-todo-app.git
-   cd flutter-todo-app
-
 Install dependencies
 
 flutter pub get
